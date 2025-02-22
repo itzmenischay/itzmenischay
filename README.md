@@ -1,3 +1,4 @@
+![Header](./github_header.jpg)
 # Hi, I'm Nischay! 👋
 
 ### Passionate Frontend Developer | MERN Stack Enthusiast
