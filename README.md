@@ -1,6 +1,6 @@
 # Hi, I'm Nischay! 👋
 
-![Header](./github-header-image.png)
+![Header](./github_header.png)
 
 ### Passionate Web Developer | MERN Stack Enthusiast
 
