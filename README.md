@@ -1,7 +1,10 @@
-![Header](./github_header.jpg)
 # Hi, I'm Nischay! 👋
 
+![Header](./github-header-image.png)
+
 ### Passionate Web Developer | MERN Stack Enthusiast
+
+A results-driven Web Developer with a passion for building seamless and user-friendly web applications using the MERN stack. Skilled in modern JavaScript frameworks, responsive design, and scalable architecture. Continuously learning and exploring emerging technologies to craft high-performance applications. Seeking opportunities to collaborate and contribute to innovative projects in the web development ecosystem.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
 
