@@ -1,7 +1,7 @@
 ![Header](./github_header.jpg)
 # Hi, I'm Nischay! 👋
 
-### Passionate Frontend Developer | MERN Stack Enthusiast
+### Passionate Web Developer | MERN Stack Enthusiast
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
 
